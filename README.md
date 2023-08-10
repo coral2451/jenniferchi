@@ -5,7 +5,7 @@
 - B.S., Psychology | The University of Texas at Dallas (_May 2018_)
 
 ### Work Experience
-**Strategy Analyst @ CommScope (_August 2022 - May 2023_)**
+**Strategy & Market Intelligence Analyst @ CommScope (_August 2022 - May 2023_)**
 - Developed and presented actionable insights for executive-level stakeholders
 - Created and managed market models for multiple business units
 - effectively managed multiple large-scale projects simultaneously
